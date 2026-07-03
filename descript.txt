@@ -1,0 +1,7 @@
+HTML
+CSS
+JavaScript
+Tailwindcss
+DaisyUI
+Font-Awesome
+AOS

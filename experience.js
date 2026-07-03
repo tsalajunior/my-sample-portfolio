@@ -1,0 +1,48 @@
+export const experiences = [
+    {
+        post: "INTERSHIP (Remote)",
+        company: "Codsoft - India",
+        year: "Feb. 2026",
+        tasks: [
+            "Learning Python",
+            "Installing the working environment",
+            "Performing tasks",
+            "Creating and deploying APIs",
+            "Introduction to Python libraries for DB",
+            "Resolving client-server communication issues",
+            "Interaction between Python and DBMS (SQLite, PostgreSQL)",
+        ],
+    },
+    {
+        post: "Wordpress Developer",
+        company: "HOTELPRO AFRICA  - Cameroon",
+        year: "2024 - 2025",
+        tasks: [
+            "Development & Integration",
+            "Content Management & Features",
+            "Performance & Optimization",
+            "Security & Maintenance",
+            "Integrations & APIs",
+            "Testing & Quality",
+            "Deployment & Hosting",
+            "Collaboration & Project Management",
+            "Support & Evolution",
+        ],
+    },
+    {
+        post: "Front-end Web Developer",
+        company: "OPTIMA CORPORATION  - Cameroon",
+        year: "2022 - 2024",
+        tasks: [
+            "User interface (UI) development",
+            "Advanced front-end development",
+            "Back-end communication",
+            "Performance & optimization",
+            "Client-side security",
+            "Testing & quality",
+            "Deployment & tools",
+            "Collaboration & methodology",
+            "Technology watch & continuous improvement",
+        ],
+    },
+]
