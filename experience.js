@@ -34,4 +34,15 @@ export const experiences = [
             "Maintaining code quality",
         ],
     },
+    {
+        post: "IT ASSISTANT",
+        company: "DELTARHO INDUSTRIES - Cameroon",
+        year: "2018 - 2019",
+        tasks: [
+            "Support for Information System Management",
+            "Network Setup",
+            "Data Updates",
+            "Software Management",
+        ],
+    },
 ]
