@@ -1,6 +1,6 @@
 export const experiences = [
     {
-        post: "INTERSHIP",
+        post: "INTERNSHIP",
         company: "Codsoft - India",
         year: "Feb. 2026",
         tasks: [
